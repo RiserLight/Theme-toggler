@@ -1,0 +1,12 @@
+
+.card{
+  align-items: center;
+}
+
+.card .ant-card-cover > * {
+
+  width: 40%;
+  /* Your additional styles */
+  height: 40%;
+  object-fit:cover;
+}
